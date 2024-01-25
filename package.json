@@ -1,0 +1,21 @@
+{
+  "name": "orange-juice-tech-dark-theme",
+  "displayName": "Orange Juice Tech Dark Theme",
+  "description": "Tema de VS Code da Orange Juice. Versão Dark.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orange Juice Tech - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orange Juice Tech - Dark-color-theme.json"
+      }
+    ]
+  }
+}
