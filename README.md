@@ -1,16 +1,34 @@
-# orange-juice-tech-dark-theme README
+# Tema de VSCode da comunidade Orange Juice!
 
-## Working with Markdown
+### *Versão Dark*
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Este é um projeto colaborativo da comunidade [Orange Juice](https://tech.orangejuice.com.br/orangejuice)!  
+**Para saber como participar [entre em nosso Discord.](https://discord.gg/orangejuicetech)**  
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+*Projeto criado para que iniciantes na área tenham a oportunidade de aprender GIT e colaboração em equipe.*
 
-## For more information
+## Objetivo
+Criar uma tema dark de Visual Studio Code par ser publicado no VIsual Studio Marketplace.  
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Cores oficiais da Orange Juice
+**<span style="color:#ff3200">Cor 01: #ff3200</span>**  
+**<span style="color:#ff5a23">Cor 02: #ff5a23</span>**  
+**<span style="color:#ff7823">Cor 03: #ff7823</span>**  
+**<span style="color:#ffa000">Cor 04: #ffa000</span>**  
 
-**Enjoy!**
+#### Cores auxiliares e complementares:  
+**<span style="color:#ffffff">Cor 05: #ffffff</span>**  
+**<span style="color:#646464">Cor 05: #646464</span>**  
+**<span style="color:#00CDFF">Cor 05: #00CDFF</span>**  
+**<span style="color:#005FFF">Cor 05: #005FFF</span>**  
+**<span style="color:#00FFA0">Cor 05: #00FFA0</span>**  
+**<span style="color:#DFFF00">Cor 05: #DFFF00</span>**  
+
+---
+
+</br>  
+
+## Nossas redes:
+[Instagram](https://www.instagram.com/orangejuicetech/)  
+[Linkedin](https://www.linkedin.com/company/orangejuice)  
+[YouTube](https://www.youtube.com/@orangejuicetech)
