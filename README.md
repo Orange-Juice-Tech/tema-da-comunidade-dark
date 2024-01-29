@@ -11,18 +11,24 @@ Este é um projeto colaborativo da comunidade [Orange Juice](https://tech.orange
 Criar uma tema dark de Visual Studio Code par ser publicado no VIsual Studio Marketplace.  
 
 ## Cores oficiais da Orange Juice
-**<span style="color:#ff3200">Cor 01: #ff3200</span>**  
-**<span style="color:#ff5a23">Cor 02: #ff5a23</span>**  
-**<span style="color:#ff7823">Cor 03: #ff7823</span>**  
-**<span style="color:#ffa000">Cor 04: #ffa000</span>**  
+![Cores oficiais](https://imgur.com/0Y3QGyQ.png "Cores Oficiais")  
 
-#### Cores auxiliares e complementares:  
-**<span style="color:#ffffff">Cor 05: #ffffff</span>**  
-**<span style="color:#646464">Cor 05: #646464</span>**  
-**<span style="color:#00CDFF">Cor 05: #00CDFF</span>**  
-**<span style="color:#005FFF">Cor 05: #005FFF</span>**  
-**<span style="color:#00FFA0">Cor 05: #00FFA0</span>**  
-**<span style="color:#DFFF00">Cor 05: #DFFF00</span>**  
+### **Cor 01:** #ff3200  
+### **Cor 02:** #ff5a23
+### **Cor 03:** #ff7823
+### **Cor 04:** #ffa000
+
+</br>
+
+### Cores auxiliares e complementares:  
+![Cores complementares](https://imgur.com/vcQd2Im.png "Cores Oficiais")  
+
+### **Cor 05:** #ffffff
+### **Cor 06:** #646464
+### **Cor 07:** #00CDFF
+### **Cor 08:** #005FFF
+### **Cor 09:** #00FFA0
+### **Cor 10:** #DFFF00
 
 ---
 
