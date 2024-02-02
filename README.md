@@ -3,12 +3,37 @@
 ### *Versão Dark*
 
 Este é um projeto colaborativo da comunidade [Orange Juice](https://tech.orangejuice.com.br/orangejuice)!  
-**Para saber como participar [entre em nosso Discord.](https://discord.gg/orangejuicetech)**  
+
+## OBJETIVO
+Criar uma tema dark de Visual Studio Code com as cores da comunidade Orange Juice para ser publicado no Visual Studio Marketplace.  
 
 *Projeto criado para que iniciantes na área tenham a oportunidade de aprender GIT e colaboração em equipe.*
 
-## Objetivo
-Criar uma tema dark de Visual Studio Code par ser publicado no VIsual Studio Marketplace.  
+
+## COMO CONTRIBUIR
+
+- **Primeiro de tudo, [entre em nosso Discord.](https://discord.gg/orangejuicetech)**  
+- Acompanhe o andamento no canal `#projetos-em-andamento`
+- Pegue o cargo `@Projeto da Comunidade` no canal `#informações`
+
+### Passo a passo para contribuir:
+1. Crie um fork deste repositório.
+2. Envie seus commits em português.
+2. Insira um pequeno resumo sobre o que foi adicionado.
+4. Solicite um pull request.
+  
+## COMO USAR
+
+- Clone o repositório para sua máquina
+- Abra a pasta no Visual Studio Code 
+  - As configurações de cores estão em: `\themes\Orange Juice Tech - Dark-color-theme.json`
+
+- Teste as alterações apertando F5 para entrar no modo de depuração.
+  - O VS Code irá abrir uma nova janela com o tema aplicado nela.
+  - Todas as alterações podem ser vistas em tempo real após salvar o arquivo
+
+</br>  
+
 
 ## Cores oficiais da Orange Juice
 ![Cores oficiais](https://imgur.com/0Y3QGyQ.png "Cores Oficiais")  
@@ -28,8 +53,9 @@ Criar uma tema dark de Visual Studio Code par ser publicado no VIsual Studio Mar
 ### **Cor 07:** #00CDFF
 ### **Cor 08:** #005FFF
 ### **Cor 09:** #00FFA0
-### **Cor 10:** #DFFF00
+### **Cor 10:** #DFFF00 
 
+##### *Antes de adicionar mais cores à paleta consulte o andamento do projeto no Discord.*
 ---
 
 </br>  
