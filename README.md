@@ -20,7 +20,8 @@ Criar uma tema dark de Visual Studio Code com as cores da comunidade Orange Juic
 1. Crie um fork deste repositório.
 2. Envie seus commits em português.
 2. Insira um pequeno resumo sobre o que foi adicionado.
-4. Solicite um pull request.
+4. Solicite um pull request na branch `release`.
+   - Alterações de documentação devem ser feitas na branch `docs`
   
 ## COMO USAR
 
