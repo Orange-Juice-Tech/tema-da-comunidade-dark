@@ -13,9 +13,9 @@ Criar uma tema dark de Visual Studio Code com as cores da comunidade Orange Juic
 ## COMO CONTRIBUIR
 
 - **Primeiro de tudo, [entre em nosso Discord.](https://discord.gg/orangejuicetech)**  
-- Acompanhe o andamento no canal `#projetos-em-andamento`
-- Pegue o cargo `@Projeto da Comunidade` no canal `#informações`
-
+- Acompanhe o andamento no canal `#projetos-da-comunidade`
+- Pegue o cargo `@Projeto da Comunidade` no canal `#projetos-da-comunidade` no post `INSTRUÇÕES SOBRE OS PROJETOS`
+  
 ### Passo a passo para contribuir:
 1. Crie um fork deste repositório.
 2. Envie seus commits em português.
