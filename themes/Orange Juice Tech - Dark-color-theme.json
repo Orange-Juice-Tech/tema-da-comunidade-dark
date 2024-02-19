@@ -1,9 +1,9 @@
 {
 	"name": "Orange Juice Tech - Dark",
 	"colors": {
-		"editor.background": "#303030",
-		"editor.foreground": "#ffffff",
-		"activityBarBadge.background": "#ff5a23",
+		"editor.background": "#263238",
+		"editor.foreground": "#eeffff",
+		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
@@ -15,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ffa000"
+				"foreground": "#546E7A"
 			}
 		},
 		{
@@ -25,7 +25,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ff7823"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -34,7 +34,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -44,7 +44,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#fd3f3f"
+				"foreground": "#FF5370"
 			}
 		},
 		{
@@ -75,7 +75,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ff3200"
+				"foreground": "#89DDFF"
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#ff3200"
+				"foreground": "#f07178"
 			}
 		},
 		{
@@ -99,7 +99,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ff3200"
+				"foreground": "#82AAFF"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#f5673c"
+				"foreground": "#F78C6C"
 			}
 		},
 		{
@@ -149,7 +149,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#ffa000"
+				"foreground": "#C3E88D"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#ff5a23"
+				"foreground": "#B2CCD6"
 			}
 		},
 		{
@@ -238,7 +238,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#ff7823"
+				"foreground": "#C792EA"
 			}
 		},
 		{
@@ -294,7 +294,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#ff5a23"
+				"foreground": "#C792EA"
 			}
 		},
 		{
@@ -312,7 +312,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#005fff"
+				"foreground": "#89DDFF"
 			}
 		},
 		{
@@ -612,7 +612,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#657e65"
+				"foreground": "#65737E"
 			}
 		},
 		{
