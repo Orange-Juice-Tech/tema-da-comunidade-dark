@@ -1,11 +1,13 @@
 {
   "name": "Orange Juice Tech - Dark",
   "colors": {
-    "editor.background": "#263238",
-    "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb",
-    "sideBar.background": "#37474F"
+	"editor.background": "#282828",
+	"editor.foreground": "#ffffff",
+	"activityBar.background": "#323232",
+	"activityBar.activeBorder": "#ff5a23",
+	"activityBarBadge.background": "#ff5a23",
+	"sideBarTitle.foreground": "#ffffff",
+	"sideBar.background": "#2e2e2e"
   },
   "tokenColors": [
     {
