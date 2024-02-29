@@ -1,3 +1,5 @@
+![Orange Juice - Tema da Comunidade](https://imgur.com/b7KzwL2.jpg)
+
 # Tema de VSCode da comunidade Orange Juice!
 
 ### _Versão Dark_
@@ -13,8 +15,8 @@ _Projeto criado para que iniciantes na área tenham a oportunidade de aprender G
 ## COMO CONTRIBUIR
 
 - **Primeiro de tudo, [entre em nosso Discord.](https://discord.gg/orangejuicetech)**
-- Acompanhe o andamento no canal `#projetos-da-comunidade`
-- Pegue o cargo `@Projeto da Comunidade` no canal `#projetos-da-comunidade` no post `INSTRUÇÕES SOBRE OS PROJETOS`
+- Acompanhe o andamento no canal <kbd># 🚸︱projetos-da-comunidade</kbd>
+- Pegue o cargo <kbd>@Projeto da Comunidade</kbd> no canal <kbd># 🚸︱projetos-da-comunidade</kbd> no post <kbd>🔶 INSTRUÇÕES SOBRE OS PROJETOS 🔶</kbd>
 
 ### Passo a passo para contribuir:
 
@@ -35,7 +37,7 @@ _Projeto criado para que iniciantes na área tenham a oportunidade de aprender G
 
   - As configurações de cores estão em: `\themes\Orange Juice Tech - Dark-color-theme.json`
 
-- Teste as alterações apertando F5 para entrar no modo de depuração.
+- Teste as alterações apertando <kbd>F5</kbd> para entrar no modo de depuração.
   - O VS Code irá abrir uma nova janela com o tema aplicado nela.
   - Todas as alterações podem ser vistas em tempo real após salvar o arquivo
 
@@ -45,32 +47,52 @@ _Projeto criado para que iniciantes na área tenham a oportunidade de aprender G
 
 ![Cores oficiais](https://imgur.com/0Y3QGyQ.png "Cores Oficiais")
 
-### **Cor 01:** #ff3200
-
-### **Cor 02:** #ff5a23
-
-### **Cor 03:** #ff7823
-
-### **Cor 04:** #ffa000
-
+### **Cor 01:** 
+```
+#ff3200
+```
+### **Cor 02:** 
+```
+#ff5a23
+```
+### **Cor 03:** 
+```
+#ff7823
+```
+### **Cor 04:** 
+```
+#ffa000
+```
 </br>
 
 ### Cores auxiliares e complementares:
 
-![Cores complementares](https://imgur.com/vcQd2Im.png "Cores Oficiais")
+![Cores complementares](https://imgur.com/vcQd2Im.png "Cores Complementares")
 
-### **Cor 05:** #ffffff
-
-### **Cor 06:** #646464
-
-### **Cor 07:** #00CDFF
-
-### **Cor 08:** #005FFF
-
-### **Cor 09:** #00FFA0
-
-### **Cor 10:** #DFFF00
-
+### **Cor 05:** 
+```
+#ffffff
+```
+### **Cor 06:** 
+```
+#646464
+```
+### **Cor 07:** 
+```
+#00CDFF
+```
+### **Cor 08:** 
+```
+#005FFF
+```
+### **Cor 09:** 
+```
+#00FFA0
+```
+### **Cor 10:** 
+```
+#DFFF00
+```
 ##### _Antes de adicionar mais cores à paleta consulte o andamento do projeto no Discord._
 
 ---
@@ -79,6 +101,4 @@ _Projeto criado para que iniciantes na área tenham a oportunidade de aprender G
 
 ## Nossas redes:
 
-[Instagram](https://www.instagram.com/orangejuicetech/)  
-[Linkedin](https://www.linkedin.com/company/orangejuice)  
-[YouTube](https://www.youtube.com/@orangejuicetech)
+<a href="https://www.instagram.com/orangejuicetech/">Instagram</a>・<a href="https://www.linkedin.com/company/orangejuice">Linkedin</a>・<a href="https://www.youtube.com/@orangejuicetech">YouTube</a>
